@@ -1,17 +1,32 @@
 class Solution:
     def majorityElement(self, nums: List[int]) -> List[int]:
-        freq = {} # key = elt : value = freq
         ans = []
         n = len(nums)
+        c1,c2=0,0
+        e1,e2=None,None
         for i in range(n):
-            if nums[i] in freq:
-                freq[nums[i]]+=1
+            if nums[i] == e1:
+                c1+=1
+            elif nums[i] == e2:
+                c2+=1
+            elif c1 == 0:
+                e1=nums[i]
+                c1=1
+            elif c2 == 0:
+                e2=nums[i]
+                c2=1
             else:
-                freq[nums[i]]=1
-        print(freq)
-        l = len(freq)
+                c1-=1
+                c2-=1
+        c1,c2=0,0
+        for i in range(n):
+            if nums[i]==e1:
+                c1+=1
+            elif nums[i]==e2:
+                c2+=1
+        if c1>n//3:
+            ans.append(e1)
+        if c2>n//3:
+            ans.append(e2)
         
-        for i,k in enumerate(freq):
-            if freq[k] > n//3:
-                ans.append(k)
         return ans
