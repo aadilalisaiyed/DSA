@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/aadilalisaiyed/DSA/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/aadilalisaiyed/DSA/tree/master/0018-4sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/aadilalisaiyed/DSA/tree/master/0033-search-in-rotated-sorted-array) |
+| [0056-merge-intervals](https://github.com/aadilalisaiyed/DSA/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/aadilalisaiyed/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0118-pascals-triangle](https://github.com/aadilalisaiyed/DSA/tree/master/0118-pascals-triangle) |
 | [0229-majority-element-ii](https://github.com/aadilalisaiyed/DSA/tree/master/0229-majority-element-ii) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/aadilalisaiyed/DSA/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/aadilalisaiyed/DSA/tree/master/0018-4sum) |
+| [0056-merge-intervals](https://github.com/aadilalisaiyed/DSA/tree/master/0056-merge-intervals) |
 | [0229-majority-element-ii](https://github.com/aadilalisaiyed/DSA/tree/master/0229-majority-element-ii) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/aadilalisaiyed/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Prefix Sum
