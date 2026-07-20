@@ -97,4 +97,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/aadilalisaiyed/DSA/tree/master/0493-reverse-pairs) |
+## Math
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/aadilalisaiyed/DSA/tree/master/0050-powx-n) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/aadilalisaiyed/DSA/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
