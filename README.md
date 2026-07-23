@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/aadilalisaiyed/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/aadilalisaiyed/DSA/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/aadilalisaiyed/DSA/tree/master/0724-find-pivot-index) |
+| [0875-koko-eating-bananas](https://github.com/aadilalisaiyed/DSA/tree/master/0875-koko-eating-bananas) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/aadilalisaiyed/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Binary Search
 |  |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/aadilalisaiyed/DSA/tree/master/0035-search-insert-position) |
 | [0493-reverse-pairs](https://github.com/aadilalisaiyed/DSA/tree/master/0493-reverse-pairs) |
 | [0704-binary-search](https://github.com/aadilalisaiyed/DSA/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/aadilalisaiyed/DSA/tree/master/0875-koko-eating-bananas) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/aadilalisaiyed/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Greedy
 |  |
