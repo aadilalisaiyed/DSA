@@ -7,11 +7,11 @@ class Solution:
                 if t[i] != map1[s[i]]:
                     return False
             map1[s[i]]=t[i]
-        map2={}
+        map1={}
         n=len(t)
         for i in range(n):
-            if t[i] in map2:
-                if s[i] != map2[t[i]]:
+            if t[i] in map1:
+                if s[i] != map1[t[i]]:
                     return False
-            map2[t[i]]=s[i]
+            map1[t[i]]=s[i]
         return True
