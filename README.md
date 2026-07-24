@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/aadilalisaiyed/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [1903-largest-odd-number-in-string](https://github.com/aadilalisaiyed/DSA/tree/master/1903-largest-odd-number-in-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/aadilalisaiyed/DSA/tree/master/0050-powx-n) |
+| [1903-largest-odd-number-in-string](https://github.com/aadilalisaiyed/DSA/tree/master/1903-largest-odd-number-in-string) |
 ## Recursion
 |  |
 | ------- |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/aadilalisaiyed/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [1021-remove-outermost-parentheses](https://github.com/aadilalisaiyed/DSA/tree/master/1021-remove-outermost-parentheses) |
+| [1903-largest-odd-number-in-string](https://github.com/aadilalisaiyed/DSA/tree/master/1903-largest-odd-number-in-string) |
 ## Stack
 |  |
 | ------- |
