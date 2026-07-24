@@ -1,11 +1,8 @@
 class Solution:
     def largestOddNumber(self, num: str) -> str:
         n=len(num)
-        while n>0:
-            if int(num[-1])%2==1:
-                return num
-            else:
-                num=num[:n-1]
-            n-=1
+        for i in range(n-1,-1,-1):
+            if num[i] in '13579':
+                return num[:i+1]
         return ""
 
