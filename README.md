@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/aadilalisaiyed/DSA/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/aadilalisaiyed/DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/aadilalisaiyed/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [2951-find-the-peaks](https://github.com/aadilalisaiyed/DSA/tree/master/2951-find-the-peaks) |
 ## Binary Search
 |  |
 | ------- |
@@ -156,4 +157,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/aadilalisaiyed/DSA/tree/master/0796-rotate-string) |
+## Enumeration
+|  |
+| ------- |
+| [2951-find-the-peaks](https://github.com/aadilalisaiyed/DSA/tree/master/2951-find-the-peaks) |
 <!---LeetCode Topics End-->
