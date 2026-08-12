@@ -7,8 +7,10 @@
 class Solution:
     def hasCycle(self, head: Optional[ListNode]) -> bool:
         addr = head
-        seen=[]
-        while addr and addr not in seen:
-            seen.append(addr)
+        seen=set()
+        while addr:
+            if addr in seen:
+                return True
+            seen.add(addr)
             addr=addr.next
-        return addr!=None
+        return False
