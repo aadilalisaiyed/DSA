@@ -7,10 +7,10 @@
 class Solution:
     def detectCycle(self, head: Optional[ListNode]) -> Optional[ListNode]:
         addr=head
-        seen=[]
+        seen=set()
         while addr:
             if addr in seen:
                 return addr
-            seen.append(addr)
+            seen.add(addr)
             addr = addr.next
         return None
