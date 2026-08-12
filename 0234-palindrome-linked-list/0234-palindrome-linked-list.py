@@ -3,22 +3,30 @@
 #     def __init__(self, val=0, next=None):
 #         self.val = val
 #         self.next = next
-from collections import deque
 class Solution:
     def isPalindrome(self, head: Optional[ListNode]) -> bool:
-        stack = deque()
-        temp = head
-        while temp:
-            stack.append(temp.val)
-            temp = temp.next
-        temp=head
-        while temp:
-            if stack and temp.val == stack[-1]:
-                stack.pop()
-            temp=temp.next
-        if len(stack)==0:
-            return True
-        else:
-            return False
+        slow=fast=head
+        while fast and fast.next:
+            slow = slow.next
+            fast = fast.next.next
+        middle = slow
+        def rev(head):
+            temp = head
+            prev= None
+            while temp:
+                next = temp.next
+                temp.next=prev
+                prev=temp
+                temp=next
+            return prev                
+        middle = rev(middle)
+        p1,p2 = head,middle
+        while p2:
+            if p1.val != p2.val:
+                return False
+            p1 = p1.next
+            p2=p2.next
+        return True
+        
 
         
