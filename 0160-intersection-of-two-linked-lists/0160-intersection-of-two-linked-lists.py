@@ -6,14 +6,25 @@
 
 class Solution:
     def getIntersectionNode(self, headA: ListNode, headB: ListNode) -> Optional[ListNode]:
-        space=set()
-        temp=headA
+        n=m=0
+        temp = headA
         while temp:
-            space.add(temp)
+            n+=1
             temp=temp.next
-        temp=headB
+        temp = headB
         while temp:
-            if temp in space:
-                return temp
+            m+=1
             temp=temp.next
+        if n<m:
+            return self.getIntersectionNode(headB,headA)
+        tempA=headA
+        while n>m:
+            tempA=tempA.next
+            n-=1
+        tempB=headB
+        for i in range(n):
+            if tempA == tempB:
+                return tempA
+            tempA=tempA.next
+            tempB=tempB.next
         return None
