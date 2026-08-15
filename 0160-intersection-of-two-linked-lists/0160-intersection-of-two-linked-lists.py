@@ -9,11 +9,11 @@ class Solution:
         space=set()
         temp=headA
         while temp:
-            space.add((temp.val,temp))
+            space.add(temp)
             temp=temp.next
         temp=headB
         while temp:
-            if (temp.val,temp) in space:
+            if temp in space:
                 return temp
             temp=temp.next
         return None
