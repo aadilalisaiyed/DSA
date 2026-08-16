@@ -8,7 +8,7 @@ class Solution:
         dummy=ListNode()
         temp=dummy
         carry=0
-        while l1 is not None or l2 is not None or carry:
+        while l1 or l2 or carry:
             sum_val=0
             if l1:
                 sum_val+=l1.val
