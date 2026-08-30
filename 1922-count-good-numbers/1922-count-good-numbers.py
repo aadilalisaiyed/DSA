@@ -3,14 +3,13 @@ class Solution:
         MOD = (10**9 +7)
         def binexp(a,b):
             #to find a^b
-            res=1
-            a%=MOD
-            while b>0:
-                if b%2 == 1:
-                    res = (res*a)%MOD
-                a*=a%MOD
-                b//=2
-            return res%(10**9 +7)
+            if b==0:
+                return 1
+            res = binexp(a,b//2)
+            if b%2:
+                return (res*res*a)%MOD
+            else:
+                return (res*res)%MOD
         if n%2==0:
             return (binexp(5,n//2) * binexp(4,n//2))%MOD
         else:
