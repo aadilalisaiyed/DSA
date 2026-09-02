@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/aadilalisaiyed/DSA/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/aadilalisaiyed/DSA/tree/master/0493-reverse-pairs) |
 | [0560-subarray-sum-equals-k](https://github.com/aadilalisaiyed/DSA/tree/master/0560-subarray-sum-equals-k) |
+| [0605-can-place-flowers](https://github.com/aadilalisaiyed/DSA/tree/master/0605-can-place-flowers) |
 | [0704-binary-search](https://github.com/aadilalisaiyed/DSA/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/aadilalisaiyed/DSA/tree/master/0724-find-pivot-index) |
 | [0875-koko-eating-bananas](https://github.com/aadilalisaiyed/DSA/tree/master/0875-koko-eating-bananas) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/aadilalisaiyed/DSA/tree/master/0410-split-array-largest-sum) |
+| [0605-can-place-flowers](https://github.com/aadilalisaiyed/DSA/tree/master/0605-can-place-flowers) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/aadilalisaiyed/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1903-largest-odd-number-in-string](https://github.com/aadilalisaiyed/DSA/tree/master/1903-largest-odd-number-in-string) |
 ## Sliding Window
