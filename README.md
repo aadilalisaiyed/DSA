@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/aadilalisaiyed/DSA/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/aadilalisaiyed/DSA/tree/master/0118-pascals-triangle) |
 | [0152-maximum-product-subarray](https://github.com/aadilalisaiyed/DSA/tree/master/0152-maximum-product-subarray) |
+| [0216-combination-sum-iii](https://github.com/aadilalisaiyed/DSA/tree/master/0216-combination-sum-iii) |
 | [0229-majority-element-ii](https://github.com/aadilalisaiyed/DSA/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/aadilalisaiyed/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/aadilalisaiyed/DSA/tree/master/0283-move-zeroes) |
@@ -247,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/aadilalisaiyed/DSA/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/aadilalisaiyed/DSA/tree/master/0040-combination-sum-ii) |
 | [0090-subsets-ii](https://github.com/aadilalisaiyed/DSA/tree/master/0090-subsets-ii) |
+| [0216-combination-sum-iii](https://github.com/aadilalisaiyed/DSA/tree/master/0216-combination-sum-iii) |
 ## Bit Manipulation
 |  |
 | ------- |
