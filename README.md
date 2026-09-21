@@ -174,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/aadilalisaiyed/DSA/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/aadilalisaiyed/DSA/tree/master/0050-powx-n) |
 | [0263-ugly-number](https://github.com/aadilalisaiyed/DSA/tree/master/0263-ugly-number) |
+| [0282-expression-add-operators](https://github.com/aadilalisaiyed/DSA/tree/master/0282-expression-add-operators) |
 | [0836-rectangle-overlap](https://github.com/aadilalisaiyed/DSA/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/aadilalisaiyed/DSA/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1903-largest-odd-number-in-string](https://github.com/aadilalisaiyed/DSA/tree/master/1903-largest-odd-number-in-string) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/aadilalisaiyed/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/aadilalisaiyed/DSA/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/aadilalisaiyed/DSA/tree/master/0242-valid-anagram) |
+| [0282-expression-add-operators](https://github.com/aadilalisaiyed/DSA/tree/master/0282-expression-add-operators) |
 | [0796-rotate-string](https://github.com/aadilalisaiyed/DSA/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/aadilalisaiyed/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/aadilalisaiyed/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -272,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/aadilalisaiyed/DSA/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/aadilalisaiyed/DSA/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/aadilalisaiyed/DSA/tree/master/0216-combination-sum-iii) |
+| [0282-expression-add-operators](https://github.com/aadilalisaiyed/DSA/tree/master/0282-expression-add-operators) |
 ## Bit Manipulation
 |  |
 | ------- |
