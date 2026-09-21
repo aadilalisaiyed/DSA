@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/aadilalisaiyed/DSA/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/aadilalisaiyed/DSA/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/aadilalisaiyed/DSA/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/aadilalisaiyed/DSA/tree/master/0119-pascals-triangle-ii) |
 | [0152-maximum-product-subarray](https://github.com/aadilalisaiyed/DSA/tree/master/0152-maximum-product-subarray) |
 | [0216-combination-sum-iii](https://github.com/aadilalisaiyed/DSA/tree/master/0216-combination-sum-iii) |
 | [0229-majority-element-ii](https://github.com/aadilalisaiyed/DSA/tree/master/0229-majority-element-ii) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/aadilalisaiyed/DSA/tree/master/0022-generate-parentheses) |
 | [0118-pascals-triangle](https://github.com/aadilalisaiyed/DSA/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/aadilalisaiyed/DSA/tree/master/0119-pascals-triangle-ii) |
 | [0152-maximum-product-subarray](https://github.com/aadilalisaiyed/DSA/tree/master/0152-maximum-product-subarray) |
 | [0410-split-array-largest-sum](https://github.com/aadilalisaiyed/DSA/tree/master/0410-split-array-largest-sum) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/aadilalisaiyed/DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
