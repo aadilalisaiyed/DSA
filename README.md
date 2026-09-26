@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/aadilalisaiyed/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/aadilalisaiyed/DSA/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/aadilalisaiyed/DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/aadilalisaiyed/DSA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/aadilalisaiyed/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1901-find-a-peak-element-ii](https://github.com/aadilalisaiyed/DSA/tree/master/1901-find-a-peak-element-ii) |
 | [2951-find-the-peaks](https://github.com/aadilalisaiyed/DSA/tree/master/2951-find-the-peaks) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/aadilalisaiyed/DSA/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/aadilalisaiyed/DSA/tree/master/0242-valid-anagram) |
 | [0560-subarray-sum-equals-k](https://github.com/aadilalisaiyed/DSA/tree/master/0560-subarray-sum-equals-k) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/aadilalisaiyed/DSA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 ## Matrix
 |  |
 | ------- |
@@ -208,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0796-rotate-string](https://github.com/aadilalisaiyed/DSA/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/aadilalisaiyed/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/aadilalisaiyed/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/aadilalisaiyed/DSA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1903-largest-odd-number-in-string](https://github.com/aadilalisaiyed/DSA/tree/master/1903-largest-odd-number-in-string) |
 | [2042-check-if-numbers-are-ascending-in-a-sentence](https://github.com/aadilalisaiyed/DSA/tree/master/2042-check-if-numbers-are-ascending-in-a-sentence) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/aadilalisaiyed/DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
