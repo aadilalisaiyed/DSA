@@ -1,28 +1,16 @@
 class Solution:
     def isValid(self, s: str) -> bool:
         stack = []
+        mapp={")":"(", "}":"{", "]":"["}
         for i in s:
-            if i=='(':
+            if i in mapp.values():
                 stack.append(i)
-            elif i==')':
-                if stack and stack[-1]=='(':
+            elif i in mapp.keys():
+                if stack and stack[-1]==mapp[i]:
                     stack.pop()
                 else:
                     return False
-            elif i=='[':
-                stack.append(i)
-            elif i==']':
-                if stack and stack[-1]=='[':
-                    stack.pop()
-                else:
-                    return False
-            elif i=='{':
-                stack.append(i)
-            elif i=='}':
-                if stack and stack[-1]=='{':
-                    stack.pop()
-                else:
-                    return False
+        
         if stack == []:
             return True
         return False
