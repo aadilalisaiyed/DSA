@@ -9,5 +9,5 @@ class Solution:
                 helper(s+'(',L-1,R)
             if R>L:
                 helper(s+')',L,R-1)
-        helper("",n,n)
+        helper('',n,n)
         return res
