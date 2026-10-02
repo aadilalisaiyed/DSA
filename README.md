@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/aadilalisaiyed/DSA/tree/master/0260-single-number-iii) |
 | [0283-move-zeroes](https://github.com/aadilalisaiyed/DSA/tree/master/0283-move-zeroes) |
 | [0410-split-array-largest-sum](https://github.com/aadilalisaiyed/DSA/tree/master/0410-split-array-largest-sum) |
+| [0455-assign-cookies](https://github.com/aadilalisaiyed/DSA/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/aadilalisaiyed/DSA/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/aadilalisaiyed/DSA/tree/master/0493-reverse-pairs) |
 | [0560-subarray-sum-equals-k](https://github.com/aadilalisaiyed/DSA/tree/master/0560-subarray-sum-equals-k) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/aadilalisaiyed/DSA/tree/master/0410-split-array-largest-sum) |
+| [0455-assign-cookies](https://github.com/aadilalisaiyed/DSA/tree/master/0455-assign-cookies) |
 | [0605-can-place-flowers](https://github.com/aadilalisaiyed/DSA/tree/master/0605-can-place-flowers) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/aadilalisaiyed/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1903-largest-odd-number-in-string](https://github.com/aadilalisaiyed/DSA/tree/master/1903-largest-odd-number-in-string) |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/aadilalisaiyed/DSA/tree/master/0148-sort-list) |
 | [0229-majority-element-ii](https://github.com/aadilalisaiyed/DSA/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/aadilalisaiyed/DSA/tree/master/0242-valid-anagram) |
+| [0455-assign-cookies](https://github.com/aadilalisaiyed/DSA/tree/master/0455-assign-cookies) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/aadilalisaiyed/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Prefix Sum
 |  |
@@ -146,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/aadilalisaiyed/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/aadilalisaiyed/DSA/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/aadilalisaiyed/DSA/tree/master/0283-move-zeroes) |
+| [0455-assign-cookies](https://github.com/aadilalisaiyed/DSA/tree/master/0455-assign-cookies) |
 | [0876-middle-of-the-linked-list](https://github.com/aadilalisaiyed/DSA/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/aadilalisaiyed/DSA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/aadilalisaiyed/DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -247,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/aadilalisaiyed/DSA/tree/master/0075-sort-colors) |
+| [0455-assign-cookies](https://github.com/aadilalisaiyed/DSA/tree/master/0455-assign-cookies) |
 ## Bubble Sort
 |  |
 | ------- |
