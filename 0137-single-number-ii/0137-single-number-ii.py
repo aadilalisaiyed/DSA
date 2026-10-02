@@ -1,13 +1,13 @@
 class Solution:
     def singleNumber(self, nums: list[int]) -> int:
-        res=0
-        for i in range(32):
-            curr=0
-            for j in nums:
-                curr+= ((j>>i) & 1)
-            if curr%3==1:
-                curr%=3
-                res|= curr<<i
-            if res>=2**31:
-                res-=2**32
-        return res
+        nums.sort()
+        n=len(nums)
+        if n==1:
+            return nums[0]
+        if nums[0] != nums[1]:
+            return nums[0]
+        for i in range(1,n-1):
+            if nums[i]!= nums[i-1] and nums[i]!= nums[i+1]:
+                return nums[i]
+        if nums[-2]!=nums[-1]:
+            return nums[-1]
