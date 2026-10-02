@@ -13,7 +13,6 @@ class Solution:
                 p1+=1
             p2+=1
             
-        print(ans)
         return ans
             
             
