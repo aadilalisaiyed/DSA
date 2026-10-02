@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/aadilalisaiyed/DSA/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/aadilalisaiyed/DSA/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/aadilalisaiyed/DSA/tree/master/0119-pascals-triangle-ii) |
+| [0137-single-number-ii](https://github.com/aadilalisaiyed/DSA/tree/master/0137-single-number-ii) |
 | [0152-maximum-product-subarray](https://github.com/aadilalisaiyed/DSA/tree/master/0152-maximum-product-subarray) |
 | [0216-combination-sum-iii](https://github.com/aadilalisaiyed/DSA/tree/master/0216-combination-sum-iii) |
 | [0229-majority-element-ii](https://github.com/aadilalisaiyed/DSA/tree/master/0229-majority-element-ii) |
@@ -290,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0090-subsets-ii](https://github.com/aadilalisaiyed/DSA/tree/master/0090-subsets-ii) |
+| [0137-single-number-ii](https://github.com/aadilalisaiyed/DSA/tree/master/0137-single-number-ii) |
 | [0191-number-of-1-bits](https://github.com/aadilalisaiyed/DSA/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/aadilalisaiyed/DSA/tree/master/0231-power-of-two) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/aadilalisaiyed/DSA/tree/master/2220-minimum-bit-flips-to-convert-number) |
