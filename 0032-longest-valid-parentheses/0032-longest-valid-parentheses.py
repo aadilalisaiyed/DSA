@@ -1,6 +1,5 @@
 class Solution:
     def longestValidParentheses(self, s: str) -> int:
-        n=len(s)
         l=r=maxi=0
         for i in s:
             if i == '(':
@@ -12,8 +11,8 @@ class Solution:
             elif r>l:
                 l=r=0
         l=r=0
-        for i in range(n-1,-1,-1):
-            if s[i] == '(':
+        for i in reversed(s):
+            if i == '(':
                 l+=1
             else:
                 r+=1
