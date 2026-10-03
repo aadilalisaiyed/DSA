@@ -5,20 +5,20 @@ class Solution:
         for i in s:
             if i == '(':
                 l+=1
-            elif i==')':
+            else:
                 r+=1
             if l==r:
                 maxi = max(l+r,maxi)
-            if r>l:
+            elif r>l:
                 l=r=0
         l=r=0
         for i in range(n-1,-1,-1):
             if s[i] == '(':
                 l+=1
-            elif s[i]==')':
+            else:
                 r+=1
             if l==r:
                 maxi = max(maxi,l+r)
-            if l>r:
+            elif l>r:
                 l=r=0
         return maxi
