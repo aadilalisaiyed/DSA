@@ -4,15 +4,11 @@ class Solution:
         s.sort()
         n=len(g)
         m=len(s)
-        p1 =0
-        p2=0
-        ans=0
-        while p1<n and p2<m:
-            if s[p2]>=g[p1]:
-                ans+=1
-                p1+=1
-            p2+=1
-            
-        return ans
-            
-            
+        i=j=0
+        content=0
+        while i<n and j<m:
+            if s[j]>=g[i]:
+                content+=1
+                i+=1
+            j+=1
+        return content
