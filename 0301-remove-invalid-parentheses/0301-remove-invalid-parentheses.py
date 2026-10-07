@@ -1,7 +1,6 @@
 class Solution:
     def removeInvalidParentheses(self, s: str) -> list[str]:
-        ans=[]
-        maxi=0
+        
         def valid(substr):
             depth=0
             for i in substr:
