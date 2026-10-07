@@ -221,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/aadilalisaiyed/DSA/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/aadilalisaiyed/DSA/tree/master/0242-valid-anagram) |
 | [0282-expression-add-operators](https://github.com/aadilalisaiyed/DSA/tree/master/0282-expression-add-operators) |
+| [0301-remove-invalid-parentheses](https://github.com/aadilalisaiyed/DSA/tree/master/0301-remove-invalid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/aadilalisaiyed/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0796-rotate-string](https://github.com/aadilalisaiyed/DSA/tree/master/0796-rotate-string) |
 | [0856-score-of-parentheses](https://github.com/aadilalisaiyed/DSA/tree/master/0856-score-of-parentheses) |
@@ -312,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/aadilalisaiyed/DSA/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/aadilalisaiyed/DSA/tree/master/0216-combination-sum-iii) |
 | [0282-expression-add-operators](https://github.com/aadilalisaiyed/DSA/tree/master/0282-expression-add-operators) |
+| [0301-remove-invalid-parentheses](https://github.com/aadilalisaiyed/DSA/tree/master/0301-remove-invalid-parentheses) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -346,4 +348,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3498-reverse-degree-of-a-string](https://github.com/aadilalisaiyed/DSA/tree/master/3498-reverse-degree-of-a-string) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0301-remove-invalid-parentheses](https://github.com/aadilalisaiyed/DSA/tree/master/0301-remove-invalid-parentheses) |
 <!---LeetCode Topics End-->
