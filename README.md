@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/aadilalisaiyed/DSA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/aadilalisaiyed/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1901-find-a-peak-element-ii](https://github.com/aadilalisaiyed/DSA/tree/master/1901-find-a-peak-element-ii) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/aadilalisaiyed/DSA/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2951-find-the-peaks](https://github.com/aadilalisaiyed/DSA/tree/master/2951-find-the-peaks) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/aadilalisaiyed/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Binary Search
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/aadilalisaiyed/DSA/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/aadilalisaiyed/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1901-find-a-peak-element-ii](https://github.com/aadilalisaiyed/DSA/tree/master/1901-find-a-peak-element-ii) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/aadilalisaiyed/DSA/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Greedy
 |  |
 | ------- |
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/aadilalisaiyed/DSA/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/aadilalisaiyed/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1903-largest-odd-number-in-string](https://github.com/aadilalisaiyed/DSA/tree/master/1903-largest-odd-number-in-string) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/aadilalisaiyed/DSA/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/aadilalisaiyed/DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Sliding Window
 |  |
@@ -94,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/aadilalisaiyed/DSA/tree/master/0242-valid-anagram) |
 | [0455-assign-cookies](https://github.com/aadilalisaiyed/DSA/tree/master/0455-assign-cookies) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/aadilalisaiyed/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/aadilalisaiyed/DSA/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -359,4 +363,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/aadilalisaiyed/DSA/tree/master/0301-remove-invalid-parentheses) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2333-minimum-sum-of-squared-difference](https://github.com/aadilalisaiyed/DSA/tree/master/2333-minimum-sum-of-squared-difference) |
 <!---LeetCode Topics End-->
